@@ -2,6 +2,7 @@
 
 ```
 pnpm i
+pnpm exec playwright install
 pnpm exec playwright test --ui
 ```
 
